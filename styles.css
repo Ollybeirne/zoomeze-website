@@ -1,0 +1,54 @@
+
+body{
+font-family:Arial, Helvetica, sans-serif;
+margin:0;
+background:#f5f5f5;
+color:#333;
+}
+
+.header{
+background:#dd3649;
+color:white;
+text-align:center;
+padding:30px;
+}
+
+.hero{
+text-align:center;
+padding:60px 20px;
+background:white;
+}
+
+.book-btn{
+background:#dd3649;
+color:white;
+padding:15px 25px;
+text-decoration:none;
+border-radius:6px;
+font-weight:bold;
+display:inline-block;
+margin-top:20px;
+}
+
+.pricing{
+padding:40px;
+text-align:center;
+background:#fafafa;
+}
+
+.terms{
+max-width:900px;
+margin:auto;
+padding:40px 20px;
+background:white;
+}
+
+.footer{
+text-align:center;
+padding:30px;
+background:#333;
+color:white;
+}
+.footer a{
+color:#fff;
+}
